@@ -120,7 +120,19 @@ Object Oriented Design Principles
 3. Quick Sort
 4. Insertion Sort
 5. Bubble Sort
-6. Selection Sort  
+6. Selection Sort
+
+## 15-02-2025 : Assignment-16 -> Branch : feature16
+1. StringBuilder
+2. StringBuffer
+3. FileReader
+4. InputStreamReader
+5. Linear Search 
+6. Binary Search<br><br><br>
+
+## 17-02-2025 : Assignment-17 -> Branch : feature17
+1. General Algorithm Best Practices
+2. Time and Space Complexity Optimization<br><br><br>
     
 
 
