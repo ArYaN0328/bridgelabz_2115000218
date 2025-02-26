@@ -133,6 +133,99 @@ Object Oriented Design Principles
 ## 17-02-2025 : Assignment-17 -> Branch : feature17
 1. General Algorithm Best Practices
 2. Time and Space Complexity Optimization<br><br><br>
+
+## 18-02-2025 : Assignment-18 -> Branch : feature18
+1. Introduction to Generics
+2. Type Parameters
+3. Generic Classes
+4. Generic Methods
+5. Bounded Type Parameters
+6. Wildcards<br><br><br>
+
+## 20-02-2025 : Assignment-19 -> Branch : feature19
+1. Overview of Collections Framework
+2. List Interface and Implementing Classes
+3. Set Interface and Implementing Classes
+4. Queue and Deque Interfaces
+5. Map Interface and Its Implementations
+6. Comparison of Different Implementations
+7. Real-World Use Cases and Best Practices.<br><br><br>
+
+## 21-02-2025 : Assignment-20 -> Branch : feature20
+1. Java I/O Streams
+2. Types of Streams
+	1. File Streams
+	2. Object Streams
+	3. ByteArray Streams
+	4. Buffered Streams
+	5. Reader and Writer
+3. Key Considerations
+4. Best Practices<br><br><br>
+
+## 21-02-2025 : Assignment-21 -> Branch : feature21
+1. Exceptions 
+2. Types of Exceptions
+	1. Checked Exceptions,
+	2. Unchecked Exceptions
+	3. Custom Exceptions
+3. Handling Exceptions 
+	1. try-catch blocks
+	2. try-catch-finally blocks
+	3. try-with-resources statement
+	4. throws clause
+	5. throw statement
+4. Creating Custom Exceptions
+5. Extending Exception Class
+6. Defining Constructors<br><br><br>
+
+## 22-02-2025 : Assignment-22 -> Branch : feature22
+1. Regex 
+2. MetaCharacter
+3. Quantifier
+4. Common Patterns:
+	1. Email Validation
+	2. Password Strength
+	3. Phone Number Format 
+5. Java Regex API 
+	1. Pattern
+	2. Matcher
+6. Methods:
+	1. find()
+	2. matches()
+	3. replaceAll()
+7. Introduction to JUnit Framework
+8. JUnit Annotations
+9. Writing Test Cases
+10. Structure of a Test Class
+11. Assertions<br><br><br>
+
+## 24-02-2025 : Assignment-23 -> Branch : feature23
+1. Introduction to Annotations
+2. Common Built-in Annotations
+3. Creating Custom Annotations
+4. Advanced Custom Annotations
+5. Real-World Use Cases
+6. Annotation Processing Tools
+7. Reflection
+8. Understanding of Reflection
+9. Using Reflection in Java
+10. Annotations and Reflection<br><br><br>
+
+## 25-02-2025 : Assignment-24 -> Branch : feature24
+1. Introduction to CSV
+2. Reading CSV Files
+3. Writing CSV Files
+4. Parsing CSV Data
+5. Data Validation<br><br><br>
+
+## 26-02-2025 : Assignment-25 -> Branch : feature25
+1. Introduction to JSON
+2. Reading JSON Data
+3. Writing JSON Data
+4. Parsing JSON Data
+5. JSON Schema Validation<br><br><br>
+
+
     
 
 
